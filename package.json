@@ -1,0 +1,21 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "coinmarketcap-api": "^3.1.1",
+    "discord.js": "^12.5.3",
+    "mongodb": "^3.6.10",
+    "node-coinmarketcap-api": "^1.0.4",
+    "node-schedule": "^2.0.0",
+    "request-promise": "^4.2.6"
+  }
+}
